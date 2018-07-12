@@ -1,4 +1,4 @@
-# Basic Application Demo
+# The borg made me do it
 
 Demonstrates an very basic JSS Application written using React.
 
